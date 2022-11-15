@@ -10,7 +10,7 @@
 - Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision.
 
 ### AI Perspectives
-####Technology: accelerating development
+#### Technology: accelerating development
 In the past six years, the technologies behind AI have rapidly progressed, allowing its development to accelerate exponentially.
 
 The breakthrough came in 2012, when a deep neural network called AlexNet allowed computers to identify objects in real images. Computers find it difficult to recognise pictures. But since then, there have been quick improvements and machines are almost as good as humans at object recognition. They can also recognise language. “With perception solved, AI research has moved on to higher-level cognition tasks like planning and reasoning,” explains Prof. Dr. Damian Borth, Director Artificial Intelligence and Machine Learning Lab, University of St. Gallen.
@@ -23,7 +23,7 @@ Damian Borth argues that the impact will be like the internet. There will be com
 
 “But we are far away from a machine that can generalise and has a consciousness,” he concludes. “These machines are self-learning systems but they are experts in their narrow domains and simple-minded compared with humans. They are very good at specific tasks but bad at others. A neural network that can recognise spoken language can’t drive cars. A neural network that can drive cars can’t play chess.”
 
-####Business: great potential in every sector
+#### Business: great potential in every sector
 As the technology evolves fast, organisations from many sectors are applying it to drive productivity and insight. As a first step, many organisations are deploying chat bots to answer simple client queries, freeing staff to concentrate on giving excellent service in more complex areas. Another example might be robotics, which answer client emails or employees’ questions to HR.
 
 More specifically, IBM’s Watson AI platform has been acting as an assistant to oncologists in more than 230 hospitals and healthcare organizations, covering 13 different types of cancer. IBM has also developed a robot called CIMON® (Crew Interactive MObile CompanioN), a joint venture with Airbus, that is assisting the astronauts on the International Space Station with their experiments.
@@ -34,7 +34,7 @@ Over time, Hartmann anticipates that advances in AI will be matched by improveme
 
 “Today you can only Google 20 per cent of the data out there. Eighty per cent of the data is held within enterprises. You need a platform to make this data accessible. My clients see lots of business advantages by applying their own data.”
 
-####Investment: divorcing hype and reality
+#### Investment: divorcing hype and reality
 Just like the Internet 20 years ago, the AI investment story is being hyped. There is a danger that AI is already being viewed too soon as the answer to many problems, causing disappointments. In fact, many of today’s applications are relatively narrow and need higher investments and iterations of improvements than the excitement suggests.
 
 “In the long term, we do think that AI is being under-priced in healthcare, where it is improving medical diagnostics and research outcomes,” asserts Fabiano Vallesi, Next Generation Portfolio Manager at Julius Baer. “Similarly, in transportation it’s improving safety in general, enabling the basics for self-driving cars.”
